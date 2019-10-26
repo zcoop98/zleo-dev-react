@@ -1,0 +1,13 @@
+{
+    "prettier.tabWidth": 4,
+    "prettier.trailingComma": "es5",
+    "prettier.useTabs": true,
+    "prettier.singleQuote": true,
+    "prettier.jsxSingleQuote": true,
+    "eslint.autoFixOnSave": true,
+    "eslint.lintTask.enable": true,
+    "csharp.format.enable": false,
+    "editor.insertSpaces": false,
+    "editor.tabSize": 4,
+    "editor.detectIndentation": true,
+}
