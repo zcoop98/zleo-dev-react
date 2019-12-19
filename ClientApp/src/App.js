@@ -6,7 +6,7 @@ import Header from './components/Header';
 import Footer from './components/Footer';
 import About from './components/About';
 import Resume from './components/Resume';
-import Contact from './components/Contact';
+// import Contact from './components/Contact';
 // import Testimonials from './components/Testimonials';
 // import Portfolio from './components/Portfolio';
 
@@ -49,7 +49,7 @@ class App extends Component {
 				<Resume data={this.state.resumeData.resume}/>
 				{/* <Portfolio data={this.state.resumeData.portfolio}/> */}
 				{/* <Testimonials data={this.state.resumeData.testimonials}/> */}
-				<Contact data={this.state.resumeData.main}/>
+				{/* <Contact data={this.state.resumeData.main}/> */}
 				<Footer data={this.state.resumeData.main}/>
 			</div>
 		);
