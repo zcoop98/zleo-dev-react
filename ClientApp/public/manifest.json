@@ -1,6 +1,6 @@
 {
-  "short_name": "zleo_dev_react",
-  "name": "zleo_dev_react",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",

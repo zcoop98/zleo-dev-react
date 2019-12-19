@@ -1,0 +1,138 @@
+{
+	"main": {
+		"name":"Zachary Leonard",
+		"occupation":"Junior Developer",
+		"description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+		"image":"profilepic.jpg",
+		"bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+		"contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+		"email": "zleonard@zleo.dev",
+		"phone": "555-555-5555",
+		"address":{
+			"city":"Plano",
+			"state":"Texas",
+			"zip": "75094"
+		},
+		"website": "https://zleo.dev",
+		"resumedownload":"https://drive.google.com/file/d/1Jdydg5cvfGqVR0aL4bRjcY6GnRCfQnpr/view?usp=sharing",
+		"social":[
+			{
+				"name":"linkedin",
+				"url":"https://www.linkedin.com/in/z-leonard/",
+				"className":"fa fa-linkedin"
+			},
+			{
+				"name":"github",
+				"url":"http://github.com/zcoop98",
+				"className":"fa fa-github"
+			}
+		]
+	},
+	"resume":{
+		"education":[
+			{
+				"school":"Biola University",
+				"degree":"Computer Science",
+				"graduated":"May 2019",
+				"description":"3.504 GPA"
+			}
+		],
+		"work":[
+			{
+				"company":"Faithlife Corporation",
+				"title":"Software Development Intern",
+				"years":"Summer 2019",
+				"description":"12-week paid summer internship. Worked in web development with a 5 member developer team to implement new features and designs using ReactJS, HTML, LESS, and C# in a .NET Core MVC context. Was also a member of a winning internal hackathon team."
+			},
+			{
+				"company":"Josh McDowell Ministry",
+				"title":"Website Assistant",
+				"years":"December 2017 - January 2019",
+				"description":"Temporary position. Worked to construct short devotionals from existing material and scheduled them to be posted on social media daily through Adobe Social, Tailwind, and Later App services in both a small office setting and remotely from college."
+			},
+			{
+				"company":"KOC Healthcare Services Inc.",
+				"title":"Administrative Assistant",
+				"years":"Summer 2017",
+				"description":"Maintained patient health data accuracy and organization in a small office setting, served incoming phone calls to and from doctors and offices, and performed moderate IT assistance and support, including installing and updating a Linux operating system on a workstation."
+			}
+		],
+		"skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+		"skills":[
+			{
+				"name":"Git",
+				"level":"60%"
+			},
+			{
+				"name":"Illustrator",
+				"level":"55%"
+			},
+			{
+				"name":"ReactJs",
+				"level":"50%"
+			},
+			{
+				"name":"CSS",
+				"level":"90%"
+			},
+			{
+				"name":"HTML5",
+				"level":"80%"
+			},
+			{
+				"name":"VueJs",
+				"level":"50%"
+			},
+			{
+				"name":"MongoDB",
+				"level":"80%"
+			}
+		]
+	},
+	"portfolio":{
+		"projects": [
+			{
+				"title":"Canadian Wanderlust",
+				"category":"My Travel Blog for my post-university travels",
+				"image":"canadian-wanderlust.jpg",
+				"url":"https://www.canadianwanderlust.com"
+			},
+			{
+				"title":"Fury Fighting Gear",
+				"category":"(offline now) A fighting gear company I started",
+				"image":"fury-fighting-gear.jpg",
+				"url":"http://www.timbakerdev.com"
+			},
+			{
+				"title":"Original Thai Food",
+				"category":"Website I built for a restaurant I like in Thailand",
+				"image":"original-thai-food.jpg",
+				"url":"http://www.timbakerdev.com/originalthaifood.github.io"
+			},
+			{
+				"title":"Resume Website",
+				"category":"A React based resume website template",
+				"image":"resume-website.jpg",
+				"url":"http://www.timbakerdev.com"
+			},
+			{
+				"title":"Smirkspace",
+				"category":"(MVP Only) A React and Meteor based chat University project.",
+				"image":"smirkspace.jpg",
+				"url":"http://www.smirkspace.com"
+			}
+		]
+	},
+	"testimonials":{
+		"testimonials":[
+			{
+				"text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+				"user":"Kareem Abdul Jabbar"
+			},
+			{
+				"text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+				"user":"Steve Wozniak... impersonator"
+			}
+		]
+	}
+}
